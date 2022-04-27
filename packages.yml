@@ -1,2 +1,2 @@
 packages:
-  - local: /Users/michael/Cerebrium/dbt_packages/dbt-github
+  - git: https://github.com/CerebriumAI/dbt_github.git
