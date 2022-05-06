@@ -1,2 +1,3 @@
 packages:
-  - git: https://github.com/CerebriumAI/dbt_github.git
+  - github: https://github.com/CerebriumAI/dbt_github.git
+  - shopify: https://github.com/CerebriumAI/dbt_shopify.git
