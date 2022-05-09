@@ -1,3 +1,4 @@
 packages:
   - git: https://github.com/CerebriumAI/airbyte_dbt_github.git
   - git: https://github.com/CerebriumAI/airbyte_dbt_shopify.git
+    revision: feature/add_dbt_metrics
